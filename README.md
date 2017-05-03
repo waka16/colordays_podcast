@@ -1,3 +1,3 @@
-# Yattecast
+# Colordays_podcast
 
-https://r7kamura.github.io/yattecast/
+https://waka16.github.io/colordays_podcast/
